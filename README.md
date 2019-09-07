@@ -1,5 +1,7 @@
 # Komunitas Akademi Garuda
 
+![logo.png](./akademiGarudaLow.png)
+
 ## Muqoddimah
 
 بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم
