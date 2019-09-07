@@ -1,6 +1,6 @@
 # Komunitas Akademi Garuda
 
-![logo.png](./akademiGarudaLow.png)
+![logo.png](akademiGarudaLow.png)
 
 ## Muqoddimah
 
